@@ -1,0 +1,23 @@
+{
+  "name": "bpm",
+  "main": "build/bpm.min.js",
+  "version": "0.1.0",
+  "authors": [
+    "Oleg Podsechin <oleg.podsechin@ionsquare.com>"
+  ],
+  "description": "Browser Package Manager",
+  "keywords": [
+    "package",
+    "npm",
+    "commonjs"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/olegp/bpm",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
